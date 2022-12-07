@@ -1,0 +1,20 @@
+{
+  "name": "cordova-plugin-sample-electron",
+  "version": "1.0.0",
+  "description": "Cordova Sample Electron Plugin (Native Support)",
+  "main": "index.js",
+  "keywords": [
+    "cordova",
+    "electron",
+    "sample",
+    "native"
+  ],
+  "author": "Apache Software Foundation",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "systeminformation": "^4.27.9"
+  },
+  "cordova": {
+    "serviceName": "Sample"
+  }
+}
